@@ -5,11 +5,11 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](tests/)
 
-A production-ready implementation of the Ralph Wiggum software engineering technique - putting AI agents in a loop until the task is done.
+A somewhat functional implementation of the Ralph Wiggum software engineering technique - putting AI agents in a loop until the task is done.
 
 > "Me fail English? That's unpossible!" - Ralph Wiggum
 
-### NOTE: This was a toy project that was itself built with the ralph wiggum technique. Expect bugs, missing functionality, and breaking changes while I clean it up. 
+### NOTE: This was a toy project that was itself built with the ralph wiggum technique. Expect bugs, missing functionality, and breaking changes while I clean it up. Mainly tested with Claude Agent SDK path
 
 ## 📚 Documentation
 
